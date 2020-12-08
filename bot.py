@@ -7,7 +7,7 @@ import aiohttp
 
 api_id = int("1304050")
 api_hash = "cb772803bc9c8407ab1d79a5a317039c"
-bot_token = "1068298176:AAGY12jhs_CdgbxJ7mH8Ze9B25ZseWecJOQ"
+bot_token = "1375924630:AAHVZMm-gOCAxSwe5Thp_9ftOo_fFD5Q8yw"
 download_path = "Downloads/"
 
 bot = TelegramClient('Uploader bot', api_id, api_hash).start(bot_token=bot_token)
